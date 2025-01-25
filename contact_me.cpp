@@ -1,1 +1,1 @@
-f8db4158-dae3-11ef-aa48-12648c653e0d
+printf('Go to https://www.loganknecht.com, or ask me about my experience directly.')
