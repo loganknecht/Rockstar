@@ -1,1 +1,1 @@
-33def890-dae3-11ef-aa48-12648c653e0d
+console.log('Go to https://www.loganknecht.com, or ask me about my experience directly.')
